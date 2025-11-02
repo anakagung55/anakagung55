@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/anak-kusuma-29189932a/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="[https://yourportfolio.com](https://anakagung55.github.io/Portfolio/)">
+  <a href="https://anakagung55.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-success?logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </p>
