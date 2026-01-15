@@ -1,7 +1,5 @@
-<!-- 👋 Anak Kusuma - GitHub Profile README -->
-
 <h1 align="center">Hi there 👋, I'm Anak Agung Kusuma</h1>
-<h3 align="center">💻 Computer Science Student | Web Scraper | Data Engineer, Viz, Scientist |ML Engineer| UI/UX Enthusiast</h3>
+<h3 align="center">AI & Machine Learning Engineer | Data Engineering Specialist | Web Scraper</h3>
 
 <p align="center">
   <a href="https://github.com/anakagung55">
@@ -21,54 +19,56 @@
 ---
 
 ### 🧠 About Me
-- 🎓 Computer Science student at Universitas Pendidikan Ganesha (Undiksha)  
-- 💼 Currently Internship at Interlace Studies Bali (Data Analyst & Scientist)  
-- 🚀 Passionate about **Web Scraping**, **Data Pipelines**, and **Creative Web Projects**  
-- 🎨 Love combining **design + logic** through projects 
+- 🎓 **Computer Science Student** at Universitas Pendidikan Ganesha (Undiksha).
+- 💼 **AI & Data Science Intern** at Interlace Studies Bali — fokus pada pengolahan data otomatis & sistem cerdas.
+- 🎯 Fokus saat ini: **Generative AI Integration**, **End-to-End ML Pipelines**, dan **Automated Data Harvesting**.
+- 🛠️ Senang mengubah data mentah yang berantakan menjadi dashboard yang punya nilai bisnis.
 
 ---
 
-### 🧩 Currently Exploring
-- ⚙️ Backend & Automation → `Python`, `SQL`, `BeautifulSoup`, `Playwright`  
-- 🌐 Frontend → `TailwindCSS`, `Vue.js`, `HTML/CSS`  
-- 🐳 DevOps → `Docker`, `Nextcloud`, `Cloudflare`, `Blynk IoT`  
-- 💡 Personal Projects → Portfolio Website, SmartBin IoT, U-Tech 2025 Event Platform  
+### 🚀 Featured AI & Data Projects
+*Beberapa proyek unggulan yang menunjukkan workflow saya dari pengambilan data hingga Machine Learning:*
+
+* 🤖 **[Smart-Recruit AI Agent](link-repo-kamu)**: Agen cerdas menggunakan **Gemini Pro** untuk memproses deskripsi kerja, parafrase otomatis, dan ekstraksi skill secara presisi.
+* 🕷️ **[OmniJob Scraper](link-repo-kamu)**: Mesin scraping terintegrasi untuk Seek, Indeed, dan Jora yang mampu mengumpulkan ribuan data lowongan secara terstruktur.
+* 🎭 **[Face Emotion Recognition](link-repo-kamu)**: Klasifikasi emosi wajah menggunakan **PyTorch** & **Transfer Learning (ResNet18)** dengan akurasi 62.08%.
+* 📊 **[Google Review Intelligence](link-repo-kamu)**: Automasi ekstraksi nama staff dari ribuan ulasan Google untuk KPI dashboard di **Looker Studio**.
+* 🫀 **[Heart Disease Predictor](link-repo-kamu)**: Model prediksi risiko penyakit jantung menggunakan **Random Forest** dengan analisis fitur medis yang mendalam.
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/AI_&_ML-PyTorch%2C%20Scikit--Learn%2C%20Gemini%20API-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data-Web%20Scraping%2C%20Pandas%2C%20SQL-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Viz-Looker%20Studio%2C%20Matplotlib-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Languages-Python%2C%20JavaScript-yellow?style=flat-square" />
+</p>
+
+- **AI/NLP**: Large Language Models (LLM), Prompt Engineering, Transformers (Pegasus, T5), HuggingFace.
+- **Data Engineering**: BeautifulSoup, Playwright, Regex, Data Cleaning & Preprocessing.
+- **Tools & DevOps**: Git, Docker, Cloudflare, Linux Environment.
+
+---
+
+### 📊 GitHub Activity
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anakagung55&layout=compact&theme=radical&hide_border=true&bg_color=0D1117">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=anakagung55&repo=link-repo-terbaikmu&theme=radical&hide_border=true&bg_color=0D1117">
 </p>
 
 ---
 
-### 🎯 Quote
-> *“Code is my canvas, creativity is my brush. Together, I build things that matter.”*  
+### 🎯 Current Focus
+> *“Building the bridge between raw data and actionable AI intelligence.”*
 
 ---
 
-### 📬 Connect With Me
-<p align="left">
-  <a href="https://github.com/anakagung55" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/domain.png" width="25"/> Portfolio
-  </a>  
-  <br>
-  <a href="https://www.linkedin.com/in/anak-kusuma-29189932a/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="25"/> LinkedIn
-  </a>  
-  <br>
-  <a href="mailto:agungajus02@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail.png" width="25"/> Email
-  </a>
-</p>
+### 📬 Let's Connect!
+- 🌐 [My Personal Portfolio](https://anakagung55.github.io/Portfolio/)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/anak-kusuma-29189932a/)
+- 📧 [Email Me](mailto:agungajus02@gmail.com)
 
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anakagung55&theme=onedark&no-bg=true&no-frame=true&margin-w=5" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anakagung55&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=anakagung55&style=flat-square&color=blueviolet" alt="Profile Views"/>
 </p>
