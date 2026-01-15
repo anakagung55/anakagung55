@@ -32,7 +32,7 @@
 * 🤖 **[Smart-Recruit AI Agent](https://github.com/anakagung55/AI-Job-Processor)**: Agen cerdas menggunakan **Gemini Pro** untuk memproses deskripsi kerja, parafrase otomatis, dan ekstraksi skill secara presisi.
 * 🕷️ **[OmniJob Scraper](https://github.com/anakagung55/JobScrape-Machine-Pro)**: Mesin scraping terintegrasi untuk Seek, Indeed, dan Jora yang mampu mengumpulkan ribuan data lowongan secara terstruktur.
 * 🎭 **[Face Emotion Recognition](https://github.com/anakagung55/Face-Emotion-Recognition-System)**: Klasifikasi emosi wajah menggunakan **PyTorch** & **Transfer Learning (ResNet18)** dengan akurasi 62.08%.
-* 📊 **[Google Review Intelligence]((https://github.com/anakagung55/Google-Business-Review-Intelligence))**: Automasi ekstraksi nama staff dari ribuan ulasan Google untuk KPI dashboard di **Looker Studio**.
+* 📊 **[Google Review Intelligence](https://github.com/anakagung55/Google-Business-Review-Intelligence)**: Automasi ekstraksi nama staff dari ribuan ulasan Google untuk KPI dashboard di **Looker Studio**.
 * 🫀 **[Heart Disease Predictor](https://github.com/anakagung55/Heart-Disease-Risk-Prediction)**: Model prediksi risiko penyakit jantung menggunakan **Random Forest** dengan analisis fitur medis yang mendalam.
 
 ---
